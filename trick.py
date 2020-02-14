@@ -17,6 +17,6 @@ def dot_trick(username):
 
 
 
-username = input("Give Username(eg. kate344mail) = ")
+username = input("Give Username(eg. bipinrai.rai123) = ")
 print(*dot_trick(username) , sep="\n")
-ex = input("Done, Press ctrl + c to exit")
+ex = input("Done :-), Press ctrl + c to exit")
